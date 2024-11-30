@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Kevin Pratama
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -101,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Kevin Pratama"
       icon: favicon.ico
       iconHeight: 18
 
